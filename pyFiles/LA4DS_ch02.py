@@ -1,9 +1,4 @@
 # import libraries
-<<<<<<< HEAD
-#so, when I save this, will it save in GitHub?
-=======
-# added comment
->>>>>>> 138f8342809236e02a63416ace939a1d55cb7873
 import numpy as np
 import matplotlib.pyplot as plt
 
